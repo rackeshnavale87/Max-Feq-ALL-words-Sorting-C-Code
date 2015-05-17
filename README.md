@@ -2,7 +2,7 @@
 Max-Feq-words-Sorting
 
 # High level algorithm:
-Closest match to words, seperation based on different delimiter such as ",/,[,],'...
+Closest match to words, seperation based on different delimiter such as ",/,[,],'... & Case Sensitive.
 
 1) Open document
 2) Read words and add them to Single linked list. (avoid using Double LL to get rid of extra overhead)
