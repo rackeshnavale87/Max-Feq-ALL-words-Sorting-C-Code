@@ -2,6 +2,8 @@
 Max-Feq-words-Sorting
 
 # High level algorithm:
+Closest match to words, seperation based on different delimiter such as ",/,[,],'...
+
 1) Open document
 2) Read words and add them to Single linked list. (avoid using Double LL to get rid of extra overhead)
 3) If the word already exists in teh list, increment the count of frequency.
